@@ -1,0 +1,5 @@
+selenium
+lxml
+autopy
+webdriver-manager
+bs4
